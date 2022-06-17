@@ -1,3 +1,5 @@
 Some text to test
 Edit _edit
 Remote Content remote commit
+
+Remote Conflicting content
